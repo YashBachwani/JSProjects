@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(104, 104, 104);
+    color:rgb(80, 9, 9);
+}
+h3{
+    color:rgb(48, 2, 2);
+}
+h3{
+    border :2px solid rgb(24, 24, 24);
+    width:200px;
+}
+a{
+    text-decoration: none;
+    color:aliceblue
+}
+a:hover{
+    color:rgb(99, 11, 26);
+    transition: 0.3s ease;
+}

@@ -1,0 +1,29 @@
+*{
+    background-color: #4b4b4b;
+    color:whitesmoke;
+}
+fieldset{
+    width:300px;
+}
+legend{
+    text-decoration: underline;
+    font-size: x-large;
+}
+input{
+    border:2px solid whitesmoke;
+    background-color: rgb(232, 240, 254);
+    color:black;
+}
+button{
+    border-radius: 7px;
+    width:90px;
+    height:50px;
+    background-color: rgb(226, 226, 226);
+    color:black;
+}
+#reset{
+    width:90px;
+}
+span{
+    color: rgb(204, 204, 204);
+}
